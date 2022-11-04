@@ -14,4 +14,4 @@ python qrcode.py
 ```
 
 ## Follow Me
-Follow on <a href="https://www.facebook.com/mawfi.hacker/" target="_blank">Facebook</a>
+Follow me on <a href="https://www.facebook.com/mawfi.hacker/" target="_blank">Facebook</a> or <a href="https://t.me/M4WF1" target="_blank">Telegram</a>
