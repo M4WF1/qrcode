@@ -28,8 +28,6 @@ class Color:
 
 class Main():
     def __init__(self):
-        os.system("clear")
-        self.print_logo()
         self.main()
     
     def main(self):
